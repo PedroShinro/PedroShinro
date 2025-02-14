@@ -9,7 +9,7 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, incluindo um app, ao
 Estou empolgado(a) para colaborar, aprender e contribuir em um ambiente profissional. Se você estiver em busca de um estagiário(a) dedicado(a) e curioso(a), ficarei feliz em me juntar! 🚀🚀🚀
 
 ![PedroShinro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroshinro&show_icons=true&_weight=180&count_weight=180_show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroshinro&_show_icons=true&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroshinro&_show_icons=true&theme=radical)
 
 ## Redes Sociais e Contatos
 [![Blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5521969681069)
