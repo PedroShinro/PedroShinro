@@ -17,7 +17,7 @@ Estou empolgado(a) para colaborar, aprender e contribuir em um ambiente profissi
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroshinro/?api=1&hl=pt-br)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pinheiro-079b24238/)
 <!-- [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() -->
-Instagram proficional
+Instagram profissional
 
 
 
