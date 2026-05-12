@@ -51,6 +51,7 @@ Aplicativo mobile para agendamento de consultas, focado em usabilidade e organiz
 
 ## 📫 Contato
 
+🔗 E-mail:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppinheiro.phpp@gmail.com)
 
 🔗 LinkedIn:  
