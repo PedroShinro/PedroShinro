@@ -51,8 +51,5 @@ Aplicativo mobile para agendamento de consultas, focado em usabilidade e organiz
 
 ## 📫 Contato
 
-🔗 E-mail:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppinheiro.phpp@gmail.com)
 
-🔗 LinkedIn:  
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pinheiro-phpp/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppinheiro.phpp@gmail.com)  [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pinheiro-phpp/)
